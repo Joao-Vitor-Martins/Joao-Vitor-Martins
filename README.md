@@ -1,7 +1,7 @@
 ### Olá me chamo João Martins, Seja bem vindo ao meu Perfil!
 | Back - End |
 
-- 👨‍🎓 Cursando 2° em Analise e Desenvolvimento de Sistemas (USF)
+- 👨‍🎓 Cursando 4° em Analise e Desenvolvimento de Sistemas (USF)
 - 🎓 Tecnico em Desenvolvimento de Sistemas (ETEC)
 ##
 
